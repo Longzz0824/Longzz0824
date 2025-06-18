@@ -3,7 +3,7 @@
 ## 🎓 关于我
 - 慕尼黑大学（Ludwig Maximilian University of Munich）在读Master学生
 - 热爱人工智能与大语言模型
-- 有过 RAG（检索增强生成）和 CV（计算机视觉）领域项目经历
+- 在不断探索 RAG（检索增强生成）和 Agent领域
 
 ## 🚀 主要项目
 
