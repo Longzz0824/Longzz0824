@@ -11,7 +11,7 @@
 基于 RAG 的智能简历问答系统，支持多种文档格式的智能解析和问答。
 
 ### [Sidekick Personal Co-Worker](https://github.com/Longzz0824/Sidekick-Personal-Co-worker)
-基于 LangChain 构建的智能助手应用，它能够通过自然语言与用户交互，并使用各种工具来完成任务
+基于 LangGraph 构建的智能助手应用，它能够通过自然语言与用户交互，并使用各种工具来完成任务
 
 ### [Critical-Multitask-Batch-Sizes-in-Diffusion-Models](https://github.com/Longzz0824/Critical-Multitask-Batch-Sizes-in-Diffusion-Models)
 扩散模型中的关键多任务最优批量大小探索。
@@ -20,7 +20,7 @@
 
 ## 🛠️ 技术栈
 - **编程语言**: Python
-- **AI/ML**: RAG, LangChain, CV
+- **AI/ML**: RAG, LangGraph,
 - **开发工具**: Git, VS Code, Cursor
 - **其他**: Markdown
 
