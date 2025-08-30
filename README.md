@@ -20,7 +20,7 @@
 
 ## 🛠️ 技术栈
 - **编程语言**: Python
-- **AI/ML**: RAG, LangGraph,
+- **AI/ML**: RAG, LangGraph
 - **开发工具**: Git, VS Code, Cursor
 - **其他**: Markdown
 
